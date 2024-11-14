@@ -1,0 +1,64 @@
+*{
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    font-family: "Dancing Script", serif;
+}
+.ab{
+    background-color: #e2eeff;
+    color: #1568f2;
+}
+.a{
+    background-color: #ffe7eb;
+    color: #e04168;
+}
+.b{
+    background-color: #d8f8ff;
+    color: #47abce;
+}
+.c{
+    background-color: #ffe7e7;
+    color: 
+    #ed6155;
+}
+.d{
+background-color: #f3e8fd;
+    color: #9654ee;
+}
+.e{
+    background-color: 
+    #ffe6d4;
+    color: #dd633c;
+}
+.f{
+    background-color: #dff3ff;
+    color: #4c8abe;
+}
+.g{
+    background-color: #e7e7ea;
+    color: #6e687a;
+}
+.h{
+    background-color: #d6f9e8;
+    color: #426b4c;
+}
+.i{
+    background-color: #fef7e0;
+    color: #ac7e52;
+}
+.j{
+    background-color: #e2eeff;
+    color:#1a71f3;
+}
+form{
+    background-color: #e7f89cc7;
+}
+.btn{
+    color: #426b4c;
+    background-color: #dff3ff;
+}
+.first{
+    background-color: #426b4c;
+    margin: 10px;
+}
